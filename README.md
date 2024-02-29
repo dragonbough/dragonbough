@@ -1,4 +1,3 @@
-![Alex's GitHub Banner]()
 <p align="center">
   <img src="https://i.imgur.com/lkeqMqs.gif" alt="nice to meet you!" />
 </p>
