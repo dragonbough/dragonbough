@@ -1,4 +1,7 @@
-![Alex's GitHub Banner](https://i.imgur.com/lkeqMqs.gif)
+![Alex's GitHub Banner]()
+<p align="center">
+  <img src="https://i.imgur.com/lkeqMqs.gif" alt="nice to meet you!" />
+</p>
 <h1 align="center">hi i'm Alex :)</h1>
 <h3 align="center">An aspiring software/game developer</h3>
 
