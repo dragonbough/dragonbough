@@ -16,7 +16,7 @@
 
 <h3 align="left">connect w me:</h3>
 <p align="left">
-<a href="https://www.codewars.com/users/dragonbough" target="blank"><img align="center" src="https://camo.githubusercontent.com/dfb7129b176d0f6559d3c67365d99ad2a510d2eab5afdd28612e163344f35f79/68747470733a2f2f646f63732e636f6465776172732e636f6d2f6c6f676f2e737667" alt="dragonbough" height="40.49" width="40" /></a>
+<a href="https://www.codewars.com/users/dragonbough" target="blank"><img align="center" src="https://www.svgrepo.com/show/330196/codewars.svg" alt="dragonbough" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">languages:</h3>
