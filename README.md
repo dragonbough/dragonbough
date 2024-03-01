@@ -5,7 +5,7 @@
 <h3 align="center">an aspiring software/game developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dragonbough&label=Profile%20views&color=0e75b6&style=flat" alt="dragonbough" /> </p>
-<h3 allign="left">about me
+<h3 allign="left">about me</h3>
 - 🔭 i’m currently working on **myself**
 
 - 🌱 i’m currently learning/improving on **Object-Oriented Programming**
