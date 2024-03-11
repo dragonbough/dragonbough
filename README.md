@@ -19,9 +19,9 @@
 <h3 align="left">codewars:</h3>
 <p align="left">
 <a href="https://www.codewars.com/users/dragonbough" target="blank"><img align="center" src="https://camo.githubusercontent.com/dfb7129b176d0f6559d3c67365d99ad2a510d2eab5afdd28612e163344f35f79/68747470733a2f2f646f63732e636f6465776172732e636f6d2f6c6f676f2e737667" alt="dragonbough" height="40" width="40.49" /></a>
+
 </p>
 
 <h3 align="left">languages:</h3>
 <p align="left"> <a href="https://github.com/dragonbough/python" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="my python repository" width="40" height="40"/> </a> </p>
-<p align="left"> <a href="[https://github.com/dragonbough/c-sharp](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="my c# repository" width="40" height="40"/> </a></p>
-wip
+<p align="left"> <a href="https://github.com/dragonbough/dragonbough/assets/99271006/4cb09d87-7af0-41cc-8735-dab3303fdc07" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="my c# repository" width="40" height="40"/> </a></p>
