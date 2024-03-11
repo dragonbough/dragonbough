@@ -24,4 +24,4 @@
 
 <h3 align="left">languages:</h3>
 <p align="left"> <a href="https://github.com/dragonbough/python" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="my python repository" width="40" height="40"/> </a> </p>
-<p align="left"> <a href="https://github.com/dragonbough/dragonbough/assets/99271006/4cb09d87-7af0-41cc-8735-dab3303fdc07" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="my c# repository" width="40" height="40"/> </a></p>
+<p align="left"> <a href="https://github.com/dragonbough/dragonbough/assets/99271006/4cb09d87-7af0-41cc-8735-dab3303fdc07" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/m46UjuP.png" alt="my c# repository" width="40" height="40"/> </a></p>
