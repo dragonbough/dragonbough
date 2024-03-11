@@ -2,6 +2,7 @@
   <img src="https://i.imgur.com/lkeqMqs.gif" alt="nice to meet you!" />
 </p>
 <h1 align="center">hi i'm Alex :)</h1>
+<p align="center">he/him</p>
 <h3 align="center">an aspiring software/game developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dragonbough&label=Profile%20views&color=0e75b6&style=flat" alt="dragonbough" /> </p>
