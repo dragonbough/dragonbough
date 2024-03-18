@@ -10,12 +10,12 @@
 I'm a heavily aspirational kid who loves computer science and programming, which I've been doing since a young age. Currently studying for my GCSEs.
 
 
-## 🛠 Skills
+## 🛠 skills
 <img align="left" width="40" height="40" src="https://github.com/dragonbough/dragonbough/assets/99271006/54f52bd1-a843-46fe-8245-db2002a74a45">
 <img align="left" width="40" height="40" src="https://github.com/dragonbough/dragonbough/assets/99271006/ee8cc16c-a638-4148-9a10-291859965e8f"> 
 
-## 🔗 Links
-[![codewars]
+## 🔗 links
+[codewars](https://www.codewars.com/users/dragonbough)
 
 
 ## what more?
