@@ -11,12 +11,13 @@ I'm a heavily aspirational kid who loves computer science and programming, which
 
 
 ## skills
-<a href="https://github.com/dragonbough/python"><img align="left" width="50" height="50" src="https://github.com/dragonbough/dragonbough/assets/99271006/54f52bd1-a843-46fe-8245-db2002a74a45">
-<a href="https://github.com/dragonbough/c-sharp"><img align="left" width="50" height="50" src="https://github.com/dragonbough/dragonbough/assets/99271006/ee8cc16c-a638-4148-9a10-291859965e8f"> <br/> <br/>
+<a href="https://github.com/dragonbough/python"><img align="left" width="41" height="41" src="https://github.com/dragonbough/dragonbough/assets/99271006/1785b9a6-785a-4e39-b535-69a8cbaa7c2f">
+<a href="https://github.com/dragonbough/c-sharp"><img align="left" width="41" height="41" src="https://github.com/dragonbough/dragonbough/assets/99271006/40404fb7-87e9-4504-8590-2b0a5cbc2b7f"> <br/> <br/>
 
 
 ## links
-<a href="https://www.codewars.com/users/dragonbough"><img align="left" width="29" height="29" src="https://github.com/dragonbough/dragonbough/assets/99271006/f417a7e6-fbff-4b06-9776-d616b164ae30"> <br/> <br/>
+<a href="https://www.codewars.com/users/dragonbough"><img align="left" width="40" height="40" src="https://github.com/dragonbough/dragonbough/assets/99271006/f417a7e6-fbff-4b06-9776-d616b164ae30"> </a> 
+#### check out my codewars :) <br/> <br/>
 
 
 ## what more?
