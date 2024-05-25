@@ -15,15 +15,15 @@ I'm a heavily aspirational kid who loves computer science and programming, which
 <a href="https://github.com/dragonbough/c-sharp"><img align="left" width="41" height="41" src="https://github.com/dragonbough/dragonbough/assets/99271006/40404fb7-87e9-4504-8590-2b0a5cbc2b7f"> <br/> <br/>
 
 
-## links
-https://www.codewars.com/users/dragonbough/badges/large
+## codewars
+![image](https://www.codewars.com/users/dragonbough/badges/large)
 #### check out my codewars :) <br/> <br/>
 
 
 ## what more?
-I'm working on my codewars kata, doing mini projects on the side 
+I'm working on my codewars kata and learning objected oriented programming in preparation for C#
 
-Next on my learning list comes ***OOP***
+Currently reading ***Python Object-Oriented Programming: Build Robust and Maintainable Object-Oriented Python Applications and Libraries, 4th Edition***
 
 We can chat about ***programming, anime, videogames***
 
