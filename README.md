@@ -16,7 +16,7 @@ I'm a heavily aspirational kid who loves computer science and programming, which
 
 
 ## links
-<a href="https://www.codewars.com/users/dragonbough"><img align="left" width="40" height="40" src="https://github.com/dragonbough/dragonbough/assets/99271006/f417a7e6-fbff-4b06-9776-d616b164ae30"> </a> 
+https://www.codewars.com/users/dragonbough/badges/large
 #### check out my codewars :) <br/> <br/>
 
 
