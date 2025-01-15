@@ -7,7 +7,7 @@
 
 
 ## about me
-I'm a heavily aspirational kid who loves computer science and programming, which I've been doing since a young age. Currently studying for my GCSEs. 
+I'm a heavily aspirational kid who loves computer science and programming, which I've been doing since a young age. Currently studying A level maths, computer science and CTEC digital media 
 
 
 ## skills
