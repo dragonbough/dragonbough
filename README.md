@@ -16,8 +16,10 @@ I'm a heavily aspirational kid who loves computer science and programming, which
 
 
 ## codewars
+<figure>
 ![image](https://www.codewars.com/users/dragonbough/badges/large)
-<p> check out my codewars </p>
+<figcaption> check out my codewars </figcaption>
+</figure>
 
 
 ## what more?
