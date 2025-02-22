@@ -17,7 +17,7 @@ I'm a heavily aspirational kid who loves computer science and programming, which
 
 ## codewars
 ![image](https://www.codewars.com/users/dragonbough/badges/large)
-#### check out my codewars :) <br/> <br/>
+<p> check out my codewars </p>
 
 
 ## what more?
