@@ -10,6 +10,6 @@
 
 <h2>codewars</h2>
 <figure>
-<img src="https://www.codewars.com/users/dragonbough/badges/large"/>
-<figcaption> check out my codewars </figcaption>
+<a href="https://www.codewars.com/users/dragonbough"> <img src="https://www.codewars.com/users/dragonbough/badges/large"/> </a>
+<figcaption> <p> check out my codewars </p> </figcaption>
 </figure>
