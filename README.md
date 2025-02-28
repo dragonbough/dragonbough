@@ -1,4 +1,4 @@
-<h1>helo i'm alex :)</h1>
+<h1>hello i'm alex :)</h1>
 
 <h2>about me</h2>
 <p>I'm a 16yr old A-level computer science student who aspires to be a software developer. Also studying A-glevel maths, and CTEC digital media</p>
